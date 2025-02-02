@@ -1,2 +1,6 @@
 new 
 this is for lab2
+git commit -m
+this is lab 2
+this is lab 3
+this is lab 4
